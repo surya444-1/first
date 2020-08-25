@@ -1,4 +1,5 @@
 echo this first file
 echo this second file
 echo this third file
-this is modified of fourth line 
+this is modified of fourth line
+this is fifth line for merge conflict 
