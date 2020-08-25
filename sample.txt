@@ -1,4 +1,4 @@
 echo this first file
 echo this second file
 echo this third file
-echo this is fourth line
+this is modified of fourth line 
