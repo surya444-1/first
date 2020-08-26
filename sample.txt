@@ -3,4 +3,4 @@ echo this second file
 echo this third file
 this is modified of fourth line
 this is fifth line for merge conflict 
-this is sixth line
+
